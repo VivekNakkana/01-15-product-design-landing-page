@@ -12,7 +12,7 @@
 
 ### Time taken was approximatly 4 Hours
 
-### [Deployed link]()
+### [Deployed link](https://designer-portifolio-vivekn.netlify.app/)
 
 #### Quicklook: 
 ![img](./Assets/Images/screencapture-127-0-0-1-5500-index-html-2022-07-31-23_43_44.png)
